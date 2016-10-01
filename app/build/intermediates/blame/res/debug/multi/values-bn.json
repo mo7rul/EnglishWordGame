@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\Monir\\AndroidStudioProjects\\EnglishWordGame\\app\\build\\intermediates\\res\\merged\\debug\\values-bn\\values-bn.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 19,
+                    "endOffset": 167
+                },
+                "from": {
+                    "file": "C:\\Users\\Monir\\AndroidStudioProjects\\EnglishWordGame\\app\\src\\main\\res\\values-bn\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 5,
+                        "endColumn": 19,
+                        "endOffset": 172
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Monir\AndroidStudioProjects\EnglishWordGame\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Monir\AndroidStudioProjects\EnglishWordGame\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_70a48696008acbb7519d267176fbe2a500678a5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Monir\AndroidStudioProjects\EnglishWordGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Monir\AndroidStudioProjects\EnglishWordGame\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_589aa1e17839061f714c8214eaf6020fd1aa30ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Monir\AndroidStudioProjects\EnglishWordGame\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Monir\AndroidStudioProjects\EnglishWordGame\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_acd447310b590861eb999e3ac574918d7f04a192.jar" />
+    </item>
+    <item
+        jar="C:\Users\Monir\AndroidStudioProjects\EnglishWordGame\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Monir\AndroidStudioProjects\EnglishWordGame\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_4e05a0c9e73ec38825f259313af1f3392afb16f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Monir\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Monir\AndroidStudioProjects\EnglishWordGame\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_f3534aa6383a1ac547229b15a85e12bed7d4e2ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Monir\AndroidStudioProjects\EnglishWordGame\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Monir\AndroidStudioProjects\EnglishWordGame\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_037376c3740c97b6b9d4df8a5001234a7f336b26.jar" />
+    </item>
+    <item
+        jar="C:\Users\Monir\AndroidStudioProjects\EnglishWordGame\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="78f2fc4bdcbd4b95c23c6a254cb8e323ae2a9f72">
+        <dex dex="C:\Users\Monir\AndroidStudioProjects\EnglishWordGame\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_2f782ede0c6732f6c87bdf9d68aaa9126e671ff4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Monir\AndroidStudioProjects\EnglishWordGame\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="59cd5ef1b5aa2e5839139f26242b91917fcd1e10">
+        <dex dex="C:\Users\Monir\AndroidStudioProjects\EnglishWordGame\app\build\intermediates\pre-dexed\debug\instant-run_413fae881f36f93593bf5147c7d22b2029c571fa.jar" />
+    </item>
+
+</items>

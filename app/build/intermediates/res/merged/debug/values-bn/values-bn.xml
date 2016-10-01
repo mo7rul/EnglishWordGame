@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="letter_a">
+        <item> একটি </item>
+        <item>  পিপীলিকা  </item>
+    </string-array>
+</resources>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="letter_a">
+        <item>A</item>
+        <item>Ant</item>
+    </string-array>
+    <string-array name="letter_b">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_c">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_d">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_e">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_f">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_g">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_h">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_i">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_j">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_k">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_l">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_m">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_n">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_o">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_p">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_q">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_r">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_s">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_t">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_u">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_v">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_w">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_x">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_y">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+    <string-array name="letter_z">
+        <item/>
+        <item>Korim</item>
+    </string-array>
+</resources>
